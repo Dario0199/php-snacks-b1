@@ -3,7 +3,6 @@
     $min = 1;
     $max = 100;
     $quantity_number = 15;
-    $number = 0;
     $arr_rand = [];
 
     for($i = 0; $i < $quantity_number; $i++){
